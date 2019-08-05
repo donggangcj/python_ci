@@ -2,7 +2,7 @@
 # 设置基础镜像
 FROM python:2.7-slim
 
-# Set the working directory to /app
+# Set the working directory to /app test
 # 设置工作目录（容器）
 WORKDIR /app
 
